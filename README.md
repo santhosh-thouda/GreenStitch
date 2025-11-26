@@ -4,6 +4,15 @@ This project is my submission for the **GreenStitch Frontend Technical Assessmen
 
 ---
 
+## 🌗 UI Preview
+
+### 🌞 Light Mode
+<img src="images/lightmode.jpg" width="500" />
+
+### 🌙 Dark Mode
+<img src="images/darkmode.jpg" width="500" />
+
+
 ## 🚀 Features Implemented (All Required Features Completed)
 
 ### 🎯 Core Booking Logic
